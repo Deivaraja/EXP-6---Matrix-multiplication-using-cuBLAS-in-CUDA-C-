@@ -6,7 +6,7 @@
 
 **EX NO :6**
 
-**DATE:22.03.2026**
+**DATE:22.03.2026** 
 
 # Objective
 To implement matrix multiplication on the GPU using the cuBLAS library in CUDA C, and analyze the performance improvement over CPU-based matrix multiplication by leveraging GPU acceleration.
